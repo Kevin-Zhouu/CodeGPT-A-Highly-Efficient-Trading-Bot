@@ -36,6 +36,3 @@ To run the bot, follow these steps:
 
 Ensure you have a stable and fast internet connection to minimise latency, which is critical for the success of high-frequency trading strategies.
 
-## Conclusion
-
-CodeGPT's Trading Bot represents a significant advancement in algorithmic trading, demonstrating the potential to exploit market inefficiencies for profit. Its success in the Jane Street Trading Competition highlights the effectiveness of its strategies and its potential for real-world financial markets.
