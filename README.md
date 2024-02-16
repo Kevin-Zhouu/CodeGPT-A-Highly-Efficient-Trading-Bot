@@ -4,6 +4,10 @@
 
 CodeGPT's Trading Bot is a sophisticated algorithm designed for high-frequency trading, tailored to operate in fast-paced financial environments. It won the 2023 Jane Street Trading Competition by implementing a unique strategy that capitalises on market inefficiencies through real-time data analysis and order execution. The bot's architecture is built for performance, with a focus on minimising response times and maximising throughput.
 
+## Contributor
+- Shiyuan(Kevin) Zhou
+- Ti Na Shen
+- Shaun Cai
 ## High-Level Design
 
 The trading bot operates by continuously analysing market data, identifying profitable trading opportunities based on predefined strategies, and executing trades with precision. The system is divided into several key components:
